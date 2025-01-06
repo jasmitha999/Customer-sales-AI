@@ -19,7 +19,7 @@ Prerequisites
 •	pip
 Steps
 1.	Clone the repository: 
-2.	git clone https://github.com/your-repo/ai-sales-assistant.git
+2.	git clone
 3.	cd ai-sales-assistant
 4.	Install dependencies: 
 5.	pip install -r requirements.txt
