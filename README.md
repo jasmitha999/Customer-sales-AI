@@ -59,4 +59,4 @@ Contributing
 License
 This project is licensed under the GNU License.
 Contact
-For any questions or support, please reach out via mulejasmitha@gmail.com.
+For any questions or support, please reach out via mulejasmithareddy@gmail.com.
