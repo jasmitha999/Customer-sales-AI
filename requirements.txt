@@ -1,0 +1,8 @@
+streamlit
+groq
+speechrecognition
+pyttsx3
+transformers
+pandas
+openpyxl
+python-dotenv
