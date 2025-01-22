@@ -1,0 +1,201 @@
+Customer ID,Product Name,MRP,Discount (%),Deals,RAM,CPU,SSD (GB),HDD (GB),Graphics Card,Battery Life (hrs),OS,Screen Size (inches),Screen Technology,Resolution,Final Price,Discounted Price,Warranty,Rating,Warranty Discount Price
+1,asus vivobook s15,143648.33,10,Free Accessories,4GB,Apple M2,512,512,Intel Iris Xe,5,windows 11,16.1,retina,3840x2160 (4k),132286.85,132876.45,1 year,3,125672.51
+2,hp victus 16,125120.16,20,No Deal,4GB,AMD Ryzen 7,1024,512,Intel UHD Graphics,7,windows 10,16.1,oled,2256x1504 (qhd),100043.67,96188.55,2 years,2,95041.49
+3,alienware x14,125283.07,20,2-Year Warranty,32GB,Intel i5 11th Gen,256,512,NVIDIA RTX 3080 Ti,10,windows 10,16.1,ips,2256x1504 (qhd),98982.4,107021.07,1 year,2,94033.28
+4,lg gram 17,167792.77,5,AppleCare+,32GB,Apple M2,1024,0,Intel UHD Graphics,18,macos,15.6,ips,2256x1504 (qhd),150750.17,149716.23,1 year,1,143212.66
+5,samsung notebook 9,94096.77,10,Gaming Accessories,16GB,Apple M2,512,1000,NVIDIA RTX 3060,3,macos,15.6,oled,1920x1080 (fhd),87716.12,91370.92,3 years,4,83330.31
+6,lenovo thinkpad p1,112743.14,20,Free External HDD,4GB,AMD Ryzen 7,128,512,NVIDIA RTX 3060,17,windows 11,16.1,ips,3024x1964 (retina),88572.8,89010.41,3 years,3,84144.16
+7,microsoft surface,128416.28,25,Cashback ₹2000,8GB,Intel i9 12th Gen,256,0,Intel Iris Xe,7,windows 10,17.0,oled,3024x1964 (retina),97785.13,96663.86,2 years,4,92895.87
+8,hp spectre x360,153692.47,15,Gaming Accessories,4GB,Intel i9 12th Gen,1024,0,Intel Iris Xe,7,windows 10,13.3,amoled,3840x2160 (4k),138137.33,129668.39,3 years,4,131230.46
+9,hp envy x360,147056.09,25,Free Docking Station,4GB,AMD Ryzen 7,128,1000,Intel UHD Graphics,4,windows 11,13.3,retina,1920x1080 (fhd),106818.94,111976.51,1 year,2,101477.99
+10,macbook air m1,55653.64,15,Free Antivirus,32GB,AMD Ryzen 7,512,1000,NVIDIA MX450,5,macos,16.1,tn,1920x1080 (fhd),47806.81,43648.75,3 years,2,45416.47
+11,microsoft surface,65364.21,15,Free Antivirus,32GB,Intel i7 12th Gen,512,0,Intel UHD Graphics,7,windows 10,16.1,tn,1920x1080 (fhd),53855.83,57734.38,3 years,1,51163.04
+12,razer blade 15,82334.48,5,No Deal,8GB,Intel i9 12th Gen,256,1000,NVIDIA RTX 3060,18,macos,13.3,retina,2560x1440 (qhd),77034.12,75669.38,2 years,3,73182.42
+13,hp envy x360,132809.75,20,Free USB-C Adapter,32GB,Intel i5 11th Gen,256,512,Intel UHD Graphics,9,macos,17.0,oled,2256x1504 (qhd),113827.54,109592.58,2 years,1,108136.16
+14,huawei matebook d15,111616.42,15,Free Docking Station,8GB,Apple M1,1024,0,NVIDIA RTX 3080 Ti,6,windows 11,15.6,retina,1366x768 (hd),103075.22,98408.75,1 year,1,97921.46
+15,alienware x14,83956.63,5,Cashback ₹2000,32GB,AMD Ryzen 9,128,512,NVIDIA MX450,4,windows 10,15.6,oled,2560x1440 (qhd),77412.71,74450.01,2 years,2,73542.08
+16,microsoft surface laptop studio,63486.61,25,Gaming Mouse,4GB,Intel i5 11th Gen,128,0,NVIDIA RTX 3060,18,windows 11,16.1,retina,1920x1080 (fhd),45016.03,47286.93,2 years,2,42765.23
+17,acer chromebook spin,133251.46,5,Free Docking Station,4GB,AMD Ryzen 9,512,512,NVIDIA RTX 3060,4,windows 11,13.3,ips,3840x2160 (4k),122874.03,118490.29,3 years,3,116730.33
+18,gigabyte aorus 17,130837.75,25,2-Year Warranty,8GB,Intel i5 11th Gen,512,1000,Intel UHD Graphics,6,macos,15.6,ips,1920x1080 (fhd),97996.63,100659.98,3 years,1,93096.8
+19,gigabyte aero 15,170971.9,20,Cashback ₹2000,8GB,Apple M2,1024,1000,NVIDIA GTX 1650,4,windows 10,17.0,retina,1920x1080 (fhd),133819.25,130976.76,1 year,4,127128.29
+20,acer nitro 5,112636.28,15,AppleCare+,32GB,Apple M1,1024,512,Apple Integrated,13,windows 11,16.1,amoled,1366x768 (hd),92787.44,90979.65,3 years,3,88148.06
+21,hp pavilion x360,108968.04,10,Free Docking Station,32GB,Intel i3 10th Gen,512,0,NVIDIA RTX 3060,13,windows 10,14.0,retina,1920x1080 (fhd),92746.92,95337.92,2 years,1,88109.57
+22,dell latitude 7420,57486.26,25,Free Antivirus,8GB,Intel i9 12th Gen,512,0,AMD Radeon Graphics,9,windows 11,16.1,tn,2560x1440 (qhd),40180.15,40085.04,3 years,4,38171.14
+23,hp spectre x360,51841.9,15,2-Year Warranty,8GB,Apple M1,128,512,AMD Radeon Graphics,3,windows 10,14.0,ips,3024x1964 (retina),42360.42,43911.54,1 year,1,40242.4
+24,asus tuf gaming a15,102816.37,10,Free Docking Station,4GB,Intel i5 11th Gen,128,512,NVIDIA RTX 3060,18,windows 11,16.1,retina,1366x768 (hd),84822.46,86595.48,2 years,3,80581.33
+25,dell latitude 7420,81985.84,10,2-Year Warranty,4GB,AMD Ryzen 9,128,1000,Apple Integrated,18,macos,13.3,tn,2256x1504 (qhd),77837.05,79516.06,3 years,1,73945.2
+26,acer aspire 7,79380.25,25,Free Game Bundle,8GB,Apple M1,1024,1000,NVIDIA GTX 1650,7,macos,13.3,ips,1366x768 (hd),59442.35,55341.26,3 years,4,56470.23
+27,lenovo yoga 7i,53749.49,15,Free Cooling Pad,4GB,Apple M2,128,512,NVIDIA RTX 3060,17,windows 11,13.3,amoled,1366x768 (hd),48668.01,49730.72,1 year,4,46234.61
+28,lenovo thinkpad x1,162665.49,10,Cashback ₹1500,16GB,Intel i5 11th Gen,256,512,NVIDIA RTX 3080 Ti,6,macos,13.3,amoled,1920x1080 (fhd),151538.11,153980.99,1 year,1,143961.21
+29,acer nitro 5,154844.63,5,Free Stylus,32GB,Apple M2,256,0,Apple Integrated,5,windows 11,17.0,tn,1366x768 (hd),143039.32,146363.08,2 years,1,135887.36
+30,microsoft surface,118316.12,5,Extended Warranty,4GB,Apple M1,128,0,Apple Integrated,10,macos,17.0,retina,2256x1504 (qhd),107390.95,105741.24,1 year,1,102021.41
+31,asus chromebook flip,165435.02,15,Extended Warranty,16GB,Intel i7 12th Gen,128,512,Intel UHD Graphics,6,windows 10,14.0,ips,1366x768 (hd),144488.58,134383.32,1 year,4,137264.15
+32,razer blade stealth,168013.5,20,Extended Warranty,8GB,Apple M2,512,0,NVIDIA GTX 1650,7,macos,17.0,amoled,2560x1440 (qhd),134629.71,132341.27,1 year,4,127898.23
+33,microsoft surface,133940.23,5,Extended Warranty,4GB,Intel i3 10th Gen,512,1000,NVIDIA RTX 3080 Ti,5,windows 10,16.1,tn,3840x2160 (4k),128297.09,121992.71,1 year,1,121882.23
+34,macbook pro m1 max,75311.61,25,Free Docking Station,8GB,Intel i3 10th Gen,1024,0,NVIDIA MX450,7,windows 10,13.3,oled,2560x1440 (qhd),60887.12,57466.48,2 years,1,57842.76
+35,dell inspiron 15,52024.66,15,Free Antivirus,32GB,Intel i9 12th Gen,256,512,Intel UHD Graphics,18,macos,15.6,retina,2560x1440 (qhd),41448.57,42781.93,1 year,1,39376.14
+36,msi prestige 14,137450.84,10,Free Cooling Pad,8GB,Intel i3 10th Gen,256,1000,AMD Radeon Graphics,8,windows 10,15.6,oled,3840x2160 (4k),126321.82,123266.9,2 years,2,120005.73
+37,macbook pro m2,100132.94,5,Cashback ₹1500,16GB,Apple M2,1024,1000,NVIDIA RTX 3080 Ti,17,macos,15.6,retina,3840x2160 (4k),95915.8,96100.81,1 year,3,91120.01
+38,macbook air m1,131645.61,15,No Deal,8GB,AMD Ryzen 7,128,1000,AMD Radeon Graphics,4,windows 10,16.1,ips,1366x768 (hd),106338.55,103033.93,2 years,4,101021.62
+39,hp envy x360,152890.37,15,Free Laptop Bag,16GB,Intel i9 12th Gen,128,0,NVIDIA RTX 3080 Ti,4,macos,15.6,tn,2560x1440 (qhd),135233.5,139604.35,3 years,4,128471.83
+40,samsung notebook 9,70395.83,20,Free Accessories,4GB,Intel i9 12th Gen,1024,0,NVIDIA RTX 3080 Ti,6,windows 10,15.6,ips,1920x1080 (fhd),56296.29,55780.58,1 year,5,53481.48
+41,huawei matebook x pro,116781.55,10,No Deal,4GB,Apple M2,256,1000,NVIDIA GTX 1650,7,windows 11,14.0,oled,3024x1964 (retina),107360.1,111185.9,3 years,4,101992.09
+42,dell latitude 7420,126451.87,10,No Deal,16GB,Apple M1,256,1000,Apple Integrated,5,macos,16.1,tn,3024x1964 (retina),113926.43,114230.02,3 years,3,108230.1
+43,macbook pro m1 max,104350.51,10,2-Year Warranty,32GB,Intel i7 12th Gen,128,0,NVIDIA RTX 3080 Ti,4,macos,16.1,ips,3024x1964 (retina),91057.23,92107.06,3 years,1,86504.36
+44,huawei matebook d15,54012.74,25,Free Antivirus,32GB,Intel i3 10th Gen,512,0,NVIDIA GTX 1650,14,macos,15.6,ips,2560x1440 (qhd),44089.13,43016.56,1 year,3,41884.67
+45,hp envy x360,85700.82,15,Free Docking Station,32GB,Intel i7 12th Gen,1024,1000,NVIDIA MX450,4,windows 10,16.1,ips,2256x1504 (qhd),77759.22,76082.27,1 year,3,73871.26
+46,razer blade stealth,88483.14,25,Free Cooling Pad,4GB,Intel i3 10th Gen,1024,0,NVIDIA RTX 3060,5,windows 11,14.0,oled,3840x2160 (4k),68301.61,65960.61,2 years,4,64886.53
+47,hp victus 16,132075.24,25,Free Docking Station,4GB,AMD Ryzen 7,128,0,NVIDIA RTX 3060,7,windows 10,14.0,ips,1366x768 (hd),97908.69,100458.78,2 years,2,93013.25
+48,hp elitebook 840,151735.76,15,Free Laptop Bag,32GB,Apple M1,1024,0,Apple Integrated,8,windows 10,13.3,amoled,1366x768 (hd),130184.91,122758.6,1 year,3,123675.67
+49,alienware area 51m,85511.0,10,Free External HDD,8GB,Apple M2,256,0,NVIDIA GTX 1650,6,macos,14.0,retina,3024x1964 (retina),80291.57,79846.85,2 years,3,76276.99
+50,dell latitude 7420,134627.82,15,Free External HDD,32GB,Intel i7 12th Gen,128,512,NVIDIA MX450,8,windows 10,13.3,amoled,1366x768 (hd),116158.19,114325.58,3 years,2,110350.28
+51,razer blade 15,85029.59,20,Free Cooling Pad,8GB,Intel i7 12th Gen,256,512,Intel UHD Graphics,18,windows 10,15.6,oled,1920x1080 (fhd),64404.23,65032.82,3 years,2,61184.02
+52,hp pavilion x360,159812.56,15,Free Antivirus,32GB,Apple M2,512,512,NVIDIA RTX 3080 Ti,14,windows 11,13.3,oled,1920x1080 (fhd),137812.89,134106.27,2 years,1,130922.25
+53,macbook air m1,147274.16,15,Free Accessories,8GB,Apple M1,1024,1000,NVIDIA RTX 3080 Ti,18,windows 10,13.3,ips,3840x2160 (4k),126029.14,129644.73,1 year,1,119727.68
+54,asus zenbook 14,112583.46,5,Gaming Accessories,4GB,Apple M1,1024,0,NVIDIA GTX 1650,6,windows 11,15.6,tn,1366x768 (hd),105262.26,111170.66,3 years,1,99999.14
+55,dell g5 15,105892.63,20,Free USB-C Adapter,32GB,Intel i9 12th Gen,256,512,NVIDIA RTX 3080 Ti,6,macos,13.3,amoled,2560x1440 (qhd),83086.51,84650.31,1 year,3,78932.18
+56,samsung galaxy book,87829.84,5,Cashback ₹1500,32GB,Intel i3 10th Gen,128,0,NVIDIA RTX 3060,7,windows 11,14.0,oled,1366x768 (hd),79834.19,76125.32,2 years,2,75842.48
+57,razer blade stealth,81520.21,10,Free Stylus,16GB,AMD Ryzen 7,128,512,Apple Integrated,4,windows 11,15.6,retina,2560x1440 (qhd),79382.73,77515.07,1 year,3,75413.59
+58,hp envy x360,164768.88,10,Gaming Mouse,32GB,Intel i9 12th Gen,1024,1000,NVIDIA RTX 3060,7,macos,16.1,oled,2256x1504 (qhd),153211.27,143875.8,3 years,3,145550.71
+59,dell alienware m15,93671.0,20,Free Antivirus,8GB,Apple M2,256,1000,AMD Radeon Graphics,3,windows 11,13.3,amoled,3024x1964 (retina),75898.2,73982.83,3 years,1,72103.29
+60,gigabyte aorus 17,112613.84,25,Free Cooling Pad,16GB,Intel i9 12th Gen,512,512,Intel Iris Xe,18,windows 11,14.0,retina,2560x1440 (qhd),81774.52,81658.6,2 years,2,77685.79
+61,lenovo thinkpad p1,175292.83,15,No Deal,32GB,Intel i5 11th Gen,256,1000,NVIDIA MX450,5,macos,16.1,retina,2256x1504 (qhd),144033.41,141952.13,1 year,2,136831.74
+62,asus expertbook,124780.86,5,Free Cooling Pad,32GB,Apple M2,128,0,AMD Radeon Graphics,4,windows 10,15.6,ips,3024x1964 (retina),114906.55,126280.62,2 years,4,109161.22
+63,hp victus 16,110613.85,20,Free Antivirus,4GB,Intel i3 10th Gen,1024,0,Intel Iris Xe,18,windows 11,15.6,tn,1920x1080 (fhd),91484.37,92667.84,2 years,4,86910.15
+64,macbook pro m1 max,98652.4,5,Free Game Bundle,16GB,Apple M1,1024,1000,NVIDIA RTX 3060,17,windows 10,15.6,retina,1366x768 (hd),93924.2,91167.85,1 year,4,89227.99
+65,msi prestige 14,64649.4,15,Free Accessories,8GB,Intel i5 11th Gen,1024,0,Intel UHD Graphics,7,macos,14.0,ips,2256x1504 (qhd),56696.27,60582.73,2 years,4,53861.46
+66,lenovo yoga 7i,86146.88,25,Gaming Mouse,32GB,Intel i7 12th Gen,512,512,Apple Integrated,10,macos,16.1,tn,3840x2160 (4k),65392.38,65252.3,1 year,2,62122.76
+67,lg gram 17,137178.64,5,Free Docking Station,4GB,Intel i3 10th Gen,512,512,NVIDIA RTX 3080 Ti,7,windows 10,15.6,ips,1366x768 (hd),128336.88,130623.56,2 years,5,121920.04
+68,microsoft surface pro 8,116919.09,20,No Deal,32GB,Apple M2,128,512,Intel UHD Graphics,18,windows 11,14.0,oled,3024x1964 (retina),102822.76,100275.85,1 year,3,97681.62
+69,macbook pro m1 max,145114.36,15,No Deal,16GB,AMD Ryzen 7,256,0,Intel Iris Xe,7,windows 10,17.0,oled,1366x768 (hd),120623.37,114010.91,1 year,1,114592.2
+70,acer nitro 5,71037.9,15,Free Mouse,8GB,Intel i5 11th Gen,256,512,NVIDIA RTX 3060,7,macos,14.0,tn,3840x2160 (4k),59212.88,60752.47,3 years,2,56252.24
+71,lenovo yoga 7i,110276.64,25,Free Game Bundle,4GB,AMD Ryzen 7,256,1000,NVIDIA RTX 3060,4,macos,17.0,ips,3024x1964 (retina),84495.24,86055.65,3 years,1,80270.48
+72,razer blade stealth,160676.66,20,Free Mouse,32GB,Intel i9 12th Gen,512,512,NVIDIA MX450,4,windows 11,16.1,amoled,3024x1964 (retina),127497.65,131476.8,3 years,1,121122.76
+73,alienware x14,104332.86,15,Free Headphones,8GB,Intel i5 11th Gen,1024,0,NVIDIA RTX 3060,5,macos,15.6,ips,3840x2160 (4k),82360.12,88657.12,1 year,4,78242.12
+74,microsoft surface,137830.91,5,Free Game Bundle,32GB,AMD Ryzen 7,128,0,AMD Radeon Graphics,14,windows 10,15.6,amoled,1366x768 (hd),122874.64,131660.33,3 years,2,116730.91
+75,dell alienware m15,59397.37,10,Free External HDD,32GB,Intel i7 12th Gen,128,512,Apple Integrated,8,windows 10,13.3,retina,3840x2160 (4k),54778.44,54503.82,1 year,4,52039.51
+76,lenovo thinkpad x1,166497.1,20,2-Year Warranty,16GB,AMD Ryzen 9,512,1000,Intel UHD Graphics,6,windows 10,15.6,retina,2560x1440 (qhd),131133.25,138015.15,1 year,1,124576.59
+77,dell g5 15,121878.31,5,Free Cooling Pad,16GB,Apple M2,512,1000,NVIDIA RTX 3060,7,windows 10,16.1,retina,1920x1080 (fhd),110807.7,110305.49,2 years,1,105267.31
+78,hp omen 16,72063.85,25,Free Mouse,32GB,Apple M2,1024,1000,NVIDIA RTX 3060,18,windows 11,14.0,ips,3840x2160 (4k),56108.15,53565.52,2 years,4,53302.74
+79,samsung notebook 9,61874.02,25,Free Headphones,4GB,Intel i3 10th Gen,1024,0,Intel Iris Xe,4,windows 10,16.1,tn,3024x1964 (retina),47436.99,47506.31,3 years,2,45065.14
+80,macbook pro m2,112839.35,15,Cashback ₹1500,16GB,Intel i5 11th Gen,512,1000,NVIDIA MX450,17,windows 11,15.6,amoled,2560x1440 (qhd),94224.01,92428.86,1 year,1,89512.81
+81,hp spectre x360,111610.43,25,Free Accessories,16GB,AMD Ryzen 7,128,0,NVIDIA RTX 3060,5,macos,14.0,ips,1920x1080 (fhd),86939.43,89453.41,2 years,4,82592.46
+82,hp omen 16,58732.33,10,AppleCare+,16GB,Intel i9 12th Gen,1024,512,NVIDIA RTX 3060,14,macos,16.1,retina,3840x2160 (4k),52556.67,51853.08,1 year,2,49928.83
+83,microsoft surface pro 8,170702.97,5,Extended Warranty,16GB,Apple M2,1024,512,NVIDIA RTX 3080 Ti,6,windows 11,15.6,oled,1920x1080 (fhd),163773.71,152736.56,1 year,1,155585.03
+84,acer predator helios,159031.45,20,Cashback ₹1500,8GB,Apple M2,128,0,NVIDIA RTX 3060,4,windows 11,15.6,retina,1366x768 (hd),130443.94,130542.72,1 year,1,123921.74
+85,huawei matebook d15,99962.64,15,Free Mouse,32GB,Intel i9 12th Gen,1024,0,AMD Radeon Graphics,5,macos,15.6,tn,3024x1964 (retina),90948.55,85864.24,3 years,2,86401.13
+86,razer blade stealth,61814.88,20,Extended Warranty,8GB,Intel i7 12th Gen,128,512,Apple Integrated,9,macos,13.3,retina,3840x2160 (4k),46577.18,50031.32,2 years,1,44248.32
+87,asus tuf gaming a15,153575.7,5,Gaming Accessories,8GB,AMD Ryzen 7,256,512,NVIDIA RTX 3080 Ti,13,windows 10,13.3,tn,3024x1964 (retina),147698.05,148177.83,1 year,1,140313.15
+88,macbook pro m2,103333.0,10,Free USB-C Adapter,32GB,Apple M2,1024,0,NVIDIA MX450,9,windows 11,13.3,oled,2560x1440 (qhd),96177.79,93099.88,2 years,2,91368.9
+89,acer aspire 7,136007.28,5,AppleCare+,16GB,Intel i3 10th Gen,1024,512,AMD Radeon Graphics,13,macos,14.0,amoled,2560x1440 (qhd),131670.75,123281.6,1 year,4,125087.21
+90,microsoft surface pro 8,107021.31,5,Free Docking Station,4GB,Apple M2,256,512,Apple Integrated,7,windows 11,16.1,retina,1920x1080 (fhd),107619.06,100214.82,1 year,1,102238.11
+91,hp victus 16,76872.85,15,Cashback ₹2000,16GB,Apple M1,128,1000,Apple Integrated,8,macos,14.0,tn,2560x1440 (qhd),64899.02,64763.33,1 year,1,61654.07
+92,microsoft surface,146214.21,20,2-Year Warranty,16GB,AMD Ryzen 9,1024,1000,AMD Radeon Graphics,5,windows 11,14.0,amoled,2256x1504 (qhd),120266.37,122659.7,3 years,1,114253.05
+93,samsung notebook 9,163075.59,5,Free Headphones,16GB,Intel i7 12th Gen,256,512,NVIDIA MX450,6,windows 11,15.6,oled,2560x1440 (qhd),165625.45,151807.62,2 years,3,157344.18
+94,lenovo thinkpad p1,77571.09,5,Free Cooling Pad,16GB,Intel i5 11th Gen,128,512,NVIDIA MX450,17,macos,17.0,tn,3840x2160 (4k),72107.73,70578.54,2 years,2,68502.35
+95,huawei matebook d15,113864.25,10,Free External HDD,4GB,AMD Ryzen 7,1024,1000,Intel Iris Xe,3,windows 10,17.0,oled,3024x1964 (retina),99786.54,99213.24,3 years,1,94797.21
+96,msi prestige 14,90139.4,25,2-Year Warranty,8GB,Intel i9 12th Gen,512,512,NVIDIA MX450,18,windows 10,15.6,oled,2256x1504 (qhd),66688.35,69393.6,2 years,1,63353.93
+97,asus chromebook flip,158221.0,10,Free Accessories,4GB,Intel i3 10th Gen,256,0,AMD Radeon Graphics,4,windows 10,17.0,ips,1920x1080 (fhd),140888.34,146009.62,3 years,3,133843.92
+98,asus zenbook 14,113314.87,20,Extended Warranty,32GB,Intel i7 12th Gen,128,512,NVIDIA RTX 3060,14,macos,14.0,amoled,2560x1440 (qhd),85301.49,84163.57,1 year,3,81036.41
+99,dell xps 13,159955.09,20,Free Laptop Bag,16GB,Apple M1,512,512,AMD Radeon Graphics,4,macos,16.1,ips,3024x1964 (retina),119009.83,118115.26,2 years,4,113059.34
+100,macbook pro m2,155383.66,15,Cashback ₹1500,4GB,Apple M1,128,0,AMD Radeon Graphics,17,windows 10,13.3,oled,1366x768 (hd),129656.26,134957.75,1 year,2,123173.45
+101,asus zenbook 14,82489.08,25,Free Headphones,32GB,Intel i9 12th Gen,512,1000,NVIDIA RTX 3080 Ti,7,macos,14.0,tn,3840x2160 (4k),60473.37,57027.93,1 year,2,57449.71
+102,dell g5 15,147206.83,20,Free Laptop Bag,4GB,AMD Ryzen 9,512,512,Intel UHD Graphics,5,macos,14.0,retina,2560x1440 (qhd),115031.74,112555.18,2 years,1,109280.15
+103,asus expertbook,93723.81,25,Extended Warranty,16GB,Apple M1,256,1000,NVIDIA RTX 3060,3,windows 10,16.1,ips,2560x1440 (qhd),74733.8,71282.52,1 year,3,70997.11
+104,asus tuf gaming a15,165438.85,10,Free Game Bundle,16GB,Intel i9 12th Gen,256,1000,NVIDIA GTX 1650,9,macos,17.0,retina,2560x1440 (qhd),144557.99,141592.12,1 year,3,137330.09
+105,dell alienware m15,104007.45,20,Cashback ₹2000,32GB,AMD Ryzen 9,512,512,Intel UHD Graphics,13,macos,16.1,ips,3024x1964 (retina),86192.69,88492.72,1 year,4,81883.05
+106,dell inspiron 15,153664.36,5,Free Docking Station,4GB,Intel i7 12th Gen,256,512,Apple Integrated,3,windows 11,14.0,amoled,3840x2160 (4k),140129.78,144922.81,1 year,1,133123.29
+107,alienware area 51m,82307.82,20,Free Stylus,16GB,AMD Ryzen 7,128,1000,NVIDIA RTX 3080 Ti,8,windows 11,15.6,retina,2256x1504 (qhd),65693.42,63676.39,3 years,2,62408.75
+108,acer predator helios,82225.08,25,Cashback ₹2000,32GB,Intel i7 12th Gen,1024,512,Apple Integrated,17,windows 10,15.6,ips,2256x1504 (qhd),64409.52,58609.92,3 years,1,61189.05
+109,asus rog zephyrus,120598.82,20,Free Docking Station,4GB,Intel i9 12th Gen,128,512,NVIDIA GTX 1650,3,windows 11,14.0,oled,3840x2160 (4k),96312.01,92692.6,2 years,1,91496.41
+110,microsoft surface,162098.22,15,Free Game Bundle,4GB,AMD Ryzen 7,512,1000,NVIDIA RTX 3060,4,windows 11,15.6,tn,3024x1964 (retina),144610.18,139617.54,3 years,1,137379.67
+111,lenovo legion 5,102818.12,5,Free USB-C Adapter,32GB,Intel i9 12th Gen,128,1000,AMD Radeon Graphics,13,macos,17.0,oled,1920x1080 (fhd),98698.53,103370.29,2 years,2,93763.6
+112,asus vivobook pro,64980.69,15,Gaming Accessories,4GB,Intel i7 12th Gen,512,0,NVIDIA RTX 3060,10,windows 11,16.1,amoled,2256x1504 (qhd),52249.34,53145.76,3 years,2,49636.88
+113,macbook pro m1 max,115582.21,10,Free Antivirus,4GB,Apple M2,128,512,NVIDIA RTX 3080 Ti,3,macos,13.3,amoled,2256x1504 (qhd),101121.31,101201.69,3 years,1,96065.25
+114,asus zenbook 14,91353.69,20,Free Cooling Pad,16GB,Apple M2,128,0,NVIDIA RTX 3060,18,windows 11,16.1,ips,3840x2160 (4k),70925.5,68256.55,2 years,2,67379.23
+115,razer blade stealth,111639.76,20,Free Docking Station,16GB,Intel i7 12th Gen,256,1000,NVIDIA MX450,4,windows 10,13.3,oled,3024x1964 (retina),89715.48,94265.31,2 years,4,85229.7
+116,asus rog zephyrus,118516.42,10,Free Antivirus,16GB,Apple M1,512,512,AMD Radeon Graphics,18,macos,14.0,retina,3024x1964 (retina),104042.27,101228.33,2 years,2,98840.16
+117,dell g3 15,102553.57,15,Free External HDD,32GB,Apple M1,512,1000,Apple Integrated,4,windows 11,14.0,ips,2560x1440 (qhd),85714.21,86213.79,2 years,1,81428.5
+118,huawei matebook d15,85477.41,5,Free Accessories,8GB,AMD Ryzen 7,1024,512,NVIDIA MX450,7,macos,13.3,ips,3024x1964 (retina),84038.66,84263.97,2 years,1,79836.72
+119,dell latitude 7420,67991.82,15,Free Stylus,4GB,AMD Ryzen 7,128,512,NVIDIA MX450,9,windows 10,15.6,oled,2560x1440 (qhd),59528.3,59027.68,3 years,3,56551.89
+120,dell xps 13,129796.62,25,Gaming Accessories,32GB,Apple M2,128,0,NVIDIA MX450,8,windows 10,14.0,tn,1366x768 (hd),98308.14,98233.33,1 year,4,93392.73
+121,dell inspiron 15,113246.39,15,Free External HDD,8GB,AMD Ryzen 9,1024,1000,NVIDIA GTX 1650,6,macos,17.0,amoled,3024x1964 (retina),101994.5,96276.61,2 years,4,96894.77
+122,microsoft surface laptop studio,76726.57,5,Free Laptop Bag,8GB,Intel i7 12th Gen,512,512,AMD Radeon Graphics,14,windows 10,17.0,retina,3840x2160 (4k),67021.6,68437.28,1 year,4,63670.52
+123,asus zenbook 14,147353.62,20,Gaming Mouse,32GB,AMD Ryzen 9,128,0,NVIDIA GTX 1650,10,windows 10,17.0,amoled,2560x1440 (qhd),114157.62,116492.1,2 years,2,108449.74
+124,hp victus 16,49610.06,15,AppleCare+,8GB,AMD Ryzen 7,1024,1000,NVIDIA GTX 1650,13,windows 11,17.0,ips,1366x768 (hd),44187.31,41127.71,1 year,1,41977.95
+125,hp victus 16,138580.02,10,Free Laptop Bag,16GB,AMD Ryzen 9,1024,0,NVIDIA MX450,5,windows 10,13.3,tn,1920x1080 (fhd),123868.47,128309.56,3 years,4,117675.04
+126,razer blade 15,136241.67,5,Free Mouse,32GB,Intel i9 12th Gen,1024,1000,NVIDIA GTX 1650,7,windows 11,15.6,ips,1920x1080 (fhd),123594.05,128504.56,2 years,3,117414.34
+127,acer nitro 5,140303.41,20,Free USB-C Adapter,4GB,Intel i5 11th Gen,128,512,Intel UHD Graphics,18,macos,13.3,tn,1920x1080 (fhd),111470.53,111520.71,3 years,1,105897.01
+128,asus tuf gaming a15,90454.54,5,Free External HDD,16GB,Apple M2,512,0,Intel UHD Graphics,13,windows 10,14.0,oled,2560x1440 (qhd),85022.24,90074.79,2 years,3,80771.13
+129,asus vivobook pro,134278.77,10,Free USB-C Adapter,4GB,Apple M2,512,0,Intel Iris Xe,7,macos,17.0,amoled,3024x1964 (retina),117048.59,111248.01,3 years,1,111196.16
+130,lenovo thinkpad x1,145146.62,25,Cashback ₹1500,8GB,Intel i9 12th Gen,1024,512,Intel UHD Graphics,5,windows 10,17.0,ips,2560x1440 (qhd),116445.79,107177.79,3 years,4,110623.5
+131,hp victus 16,169300.01,5,Free Game Bundle,16GB,AMD Ryzen 7,1024,1000,Intel UHD Graphics,10,windows 11,17.0,tn,1920x1080 (fhd),153230.06,152563.6,2 years,4,145568.55
+132,hp omen 16,104361.99,5,Free External HDD,4GB,Intel i7 12th Gen,512,512,NVIDIA RTX 3080 Ti,5,windows 10,14.0,tn,3024x1964 (retina),101956.58,99132.65,3 years,4,96858.75
+133,acer swift 3,51925.43,15,2-Year Warranty,32GB,Intel i7 12th Gen,1024,0,NVIDIA GTX 1650,8,macos,16.1,ips,1366x768 (hd),41290.24,43787.67,1 year,1,39225.73
+134,samsung galaxy book,111631.05,10,Free Antivirus,8GB,Apple M1,1024,512,NVIDIA RTX 3060,17,windows 10,13.3,amoled,1920x1080 (fhd),100279.32,99953.64,2 years,2,95265.35
+135,dell latitude 7420,113994.06,10,Free Mouse,4GB,Intel i3 10th Gen,512,0,Intel Iris Xe,18,windows 11,15.6,oled,3840x2160 (4k),112209.04,107258.81,2 years,5,106598.59
+136,acer swift 3,155294.67,25,Free Stylus,8GB,Intel i9 12th Gen,128,512,NVIDIA GTX 1650,7,macos,14.0,oled,3024x1964 (retina),115059.31,118233.84,2 years,3,109306.34
+137,microsoft surface laptop studio,150755.36,10,Free Docking Station,4GB,Intel i3 10th Gen,1024,1000,Intel UHD Graphics,13,windows 11,16.1,retina,2560x1440 (qhd),141209.46,134829.37,1 year,1,134148.99
+138,dell g3 15,103952.97,5,Free Headphones,32GB,Intel i3 10th Gen,128,0,NVIDIA RTX 3060,13,windows 10,16.1,retina,2560x1440 (qhd),97087.45,95819.13,1 year,4,92233.08
+139,lg ultragear 17,115803.58,25,Cashback ₹1500,16GB,Intel i7 12th Gen,1024,0,NVIDIA MX450,17,windows 10,15.6,retina,3840x2160 (4k),81411.67,80435.6,1 year,5,77341.09
+140,asus vivobook pro,106817.2,10,AppleCare+,4GB,AMD Ryzen 7,1024,1000,AMD Radeon Graphics,17,windows 11,14.0,amoled,2256x1504 (qhd),89834.25,90017.15,2 years,4,85342.54
+141,lenovo ideapad 3,131772.14,25,No Deal,8GB,Apple M2,1024,512,Intel UHD Graphics,5,macos,16.1,retina,2560x1440 (qhd),101473.47,105424.86,3 years,2,96399.8
+142,lenovo ideapad 3,97622.09,10,Gaming Mouse,32GB,Intel i7 12th Gen,256,1000,NVIDIA MX450,3,windows 11,17.0,retina,3840x2160 (4k),85042.71,87272.01,3 years,3,80790.58
+143,microsoft surface laptop studio,132528.92,10,Gaming Accessories,16GB,Intel i9 12th Gen,128,512,NVIDIA MX450,6,macos,15.6,amoled,1920x1080 (fhd),114071.44,113015.86,3 years,4,108367.87
+144,dell alienware m15,62838.86,15,No Deal,8GB,Intel i9 12th Gen,128,1000,Intel UHD Graphics,6,macos,17.0,retina,1920x1080 (fhd),55403.43,55441.47,1 year,2,52633.26
+145,macbook air m1,105003.86,10,Free Cooling Pad,32GB,Apple M2,1024,1000,Intel UHD Graphics,10,macos,15.6,oled,2560x1440 (qhd),89672.78,94386.08,1 year,4,85189.14
+146,hp envy x360,166827.09,25,Extended Warranty,8GB,AMD Ryzen 7,512,0,NVIDIA RTX 3080 Ti,3,windows 11,13.3,ips,3024x1964 (retina),125441.49,130210.59,2 years,3,119169.41
+147,hp omen 16,87290.22,5,AppleCare+,32GB,AMD Ryzen 7,1024,0,Intel UHD Graphics,7,macos,13.3,oled,2256x1504 (qhd),83590.42,84198.66,1 year,4,79410.9
+148,macbook pro m1 max,138381.42,15,Free Laptop Bag,16GB,AMD Ryzen 7,256,512,Intel UHD Graphics,5,windows 11,14.0,oled,2560x1440 (qhd),116664.11,116605.6,1 year,4,110830.91
+149,huawei matebook d15,124000.93,10,Free Docking Station,16GB,Intel i3 10th Gen,1024,1000,Apple Integrated,17,windows 11,16.1,tn,1920x1080 (fhd),118995.12,110629.7,1 year,3,113045.36
+150,huawei matebook x pro,150510.41,10,Free Mouse,8GB,Intel i5 11th Gen,256,512,Apple Integrated,3,windows 11,17.0,ips,3024x1964 (retina),137415.26,133722.2,1 year,1,130544.49
+151,asus chromebook flip,157078.81,25,Cashback ₹2000,32GB,Intel i7 12th Gen,1024,1000,Intel UHD Graphics,18,windows 10,16.1,oled,3840x2160 (4k),111136.69,109322.22,2 years,3,105579.85
+152,asus chromebook flip,146451.03,15,Extended Warranty,4GB,AMD Ryzen 7,128,1000,NVIDIA RTX 3080 Ti,7,windows 10,13.3,ips,1920x1080 (fhd),133769.0,128793.45,1 year,3,127080.55
+153,acer chromebook spin,92761.28,10,2-Year Warranty,16GB,Apple M1,1024,0,NVIDIA GTX 1650,6,windows 10,17.0,oled,3840x2160 (4k),79731.78,83682.77,3 years,3,75745.19
+154,dell g5 15,85680.02,5,Free Accessories,4GB,AMD Ryzen 7,128,1000,Intel Iris Xe,6,macos,14.0,amoled,2256x1504 (qhd),82283.2,81456.09,2 years,1,78169.04
+155,asus vivobook s15,139601.52,5,Free Docking Station,4GB,AMD Ryzen 7,512,0,Intel Iris Xe,5,windows 10,16.1,amoled,2256x1504 (qhd),128671.89,132649.99,1 year,2,122238.29
+156,msi prestige 14,146185.63,10,Free Accessories,8GB,Apple M2,512,0,NVIDIA GTX 1650,9,windows 10,15.6,retina,1366x768 (hd),124165.67,123935.84,1 year,4,117957.38
+157,gigabyte aero 15,157951.73,5,AppleCare+,8GB,AMD Ryzen 9,1024,1000,NVIDIA RTX 3060,9,windows 10,15.6,amoled,3024x1964 (retina),142569.93,148392.01,2 years,4,135441.44
+158,razer blade 15,50231.06,15,Free Docking Station,8GB,Apple M2,1024,1000,NVIDIA RTX 3060,13,macos,17.0,ips,1920x1080 (fhd),41757.55,43222.04,2 years,4,39669.67
+159,razer blade 15,52055.45,10,Free External HDD,32GB,Apple M1,512,512,Apple Integrated,3,windows 11,15.6,tn,3840x2160 (4k),48561.05,48374.59,2 years,3,46132.99
+160,dell alienware m15,122752.97,25,Free Antivirus,16GB,Intel i7 12th Gen,256,512,AMD Radeon Graphics,17,windows 10,15.6,retina,3840x2160 (4k),92984.64,91385.36,1 year,3,88335.41
+161,lenovo thinkpad p1,163609.38,15,AppleCare+,16GB,Apple M1,512,512,Apple Integrated,14,windows 11,13.3,oled,3840x2160 (4k),141178.83,135350.26,3 years,4,134119.89
+162,lg gram 17,170715.04,5,Free Mouse,4GB,AMD Ryzen 9,512,0,NVIDIA RTX 3080 Ti,7,windows 11,14.0,amoled,2560x1440 (qhd),159577.95,161053.76,2 years,4,151599.05
+163,dell alienware m15,140507.25,10,2-Year Warranty,8GB,Apple M1,256,0,Intel Iris Xe,4,windows 11,15.6,retina,2560x1440 (qhd),124266.01,119960.35,3 years,2,118052.71
+164,microsoft surface laptop studio,95242.55,15,Free Headphones,32GB,AMD Ryzen 7,512,0,AMD Radeon Graphics,6,windows 11,15.6,amoled,2256x1504 (qhd),81819.59,87956.32,1 year,1,77728.61
+165,acer chromebook spin,59208.99,5,Cashback ₹2000,16GB,Apple M1,512,0,NVIDIA RTX 3080 Ti,13,windows 10,16.1,retina,1366x768 (hd),51503.34,55708.13,2 years,2,48928.17
+166,asus vivobook pro,120870.29,10,Free Cooling Pad,32GB,Intel i7 12th Gen,256,0,NVIDIA MX450,7,macos,17.0,ips,2256x1504 (qhd),110265.28,110538.04,1 year,2,104752.02
+167,acer chromebook spin,155687.77,20,Extended Warranty,8GB,AMD Ryzen 7,256,0,NVIDIA RTX 3060,5,windows 10,13.3,ips,1366x768 (hd),119524.29,121531.17,3 years,3,113548.07
+168,microsoft surface pro 8,97728.13,25,Free Docking Station,8GB,AMD Ryzen 7,128,1000,NVIDIA RTX 3060,17,macos,17.0,oled,2256x1504 (qhd),76155.0,75581.79,2 years,2,72347.25
+169,dell xps 13,128718.73,5,Free Antivirus,16GB,AMD Ryzen 7,1024,512,Apple Integrated,7,windows 10,16.1,retina,3840x2160 (4k),122464.06,120038.38,1 year,3,116340.85
+170,huawei matebook d15,153242.44,5,Gaming Mouse,4GB,Apple M2,128,512,Intel Iris Xe,7,windows 10,16.1,tn,2560x1440 (qhd),151469.66,151984.93,3 years,1,143896.18
+171,acer aspire 7,50214.49,20,Free Docking Station,4GB,Intel i5 11th Gen,256,512,Intel UHD Graphics,8,windows 11,16.1,ips,2256x1504 (qhd),39196.56,39586.47,1 year,2,37236.73
+172,dell g3 15,145156.14,20,Free Accessories,8GB,Intel i5 11th Gen,512,1000,Intel Iris Xe,3,macos,15.6,oled,3024x1964 (retina),117291.26,118015.98,2 years,2,111426.69
+173,acer aspire 7,81812.36,15,AppleCare+,8GB,Intel i7 12th Gen,256,512,NVIDIA RTX 3080 Ti,4,windows 10,17.0,retina,2256x1504 (qhd),66669.06,72061.8,3 years,1,63335.6
+174,lenovo thinkpad x1,91812.1,25,Gaming Accessories,4GB,Intel i5 11th Gen,512,0,NVIDIA RTX 3080 Ti,3,macos,17.0,oled,3024x1964 (retina),67159.31,66957.67,3 years,2,63801.35
+175,gigabyte aorus 17,62243.76,25,Extended Warranty,8GB,Apple M1,128,1000,NVIDIA RTX 3080 Ti,13,macos,17.0,ips,3840x2160 (4k),48772.21,48161.6,1 year,4,46333.6
+176,macbook air m1,116058.27,5,AppleCare+,16GB,AMD Ryzen 9,128,1000,NVIDIA MX450,9,windows 10,14.0,oled,2560x1440 (qhd),101500.93,101109.03,2 years,1,96425.88
+177,msi katana gf66,111166.39,20,Free External HDD,16GB,Intel i3 10th Gen,128,512,Intel UHD Graphics,13,macos,13.3,retina,2256x1504 (qhd),90045.8,96828.53,3 years,2,85543.51
+178,hp envy x360,145096.18,25,2-Year Warranty,32GB,Intel i5 11th Gen,512,0,Intel UHD Graphics,4,windows 10,15.6,amoled,3024x1964 (retina),109472.5,109431.52,3 years,3,103998.88
+179,asus tuf gaming a15,65421.97,10,Gaming Mouse,4GB,Intel i9 12th Gen,1024,512,NVIDIA GTX 1650,14,windows 10,13.3,tn,2560x1440 (qhd),59105.45,59944.01,1 year,4,56150.18
+180,macbook pro m1 max,57078.02,25,2-Year Warranty,8GB,Apple M1,1024,1000,Intel Iris Xe,7,windows 11,15.6,ips,1366x768 (hd),41556.33,40856.25,2 years,1,39478.51
+181,acer swift 3,146973.54,5,Free Headphones,32GB,Apple M1,1024,512,NVIDIA MX450,13,windows 11,17.0,retina,3840x2160 (4k),140538.82,150893.33,2 years,4,133511.88
+182,msi katana gf66,127968.1,25,Extended Warranty,16GB,Intel i9 12th Gen,256,1000,NVIDIA RTX 3080 Ti,14,macos,14.0,retina,2256x1504 (qhd),90417.81,88126.83,3 years,1,85896.92
+183,dell inspiron 15,74392.12,15,Gaming Accessories,4GB,AMD Ryzen 9,256,1000,AMD Radeon Graphics,4,windows 11,14.0,oled,2256x1504 (qhd),63643.09,61832.24,2 years,1,60460.94
+184,huawei matebook x pro,157900.66,20,Free Antivirus,16GB,Intel i3 10th Gen,512,1000,Intel Iris Xe,6,macos,17.0,ips,3840x2160 (4k),127132.58,129734.2,1 year,1,120775.95
+185,razer blade 15,63501.36,5,Gaming Accessories,8GB,Apple M1,256,0,Intel UHD Graphics,5,windows 10,13.3,amoled,2560x1440 (qhd),59581.17,62637.78,2 years,3,56602.11
+186,razer blade stealth,105996.53,5,Gaming Accessories,32GB,Intel i9 12th Gen,512,0,NVIDIA RTX 3060,6,windows 11,16.1,amoled,2560x1440 (qhd),95525.34,95276.18,2 years,3,90749.08
+187,asus chromebook flip,79319.39,20,Free USB-C Adapter,8GB,Intel i7 12th Gen,128,512,NVIDIA RTX 3060,7,windows 10,17.0,tn,2256x1504 (qhd),58625.9,59267.03,2 years,2,55694.6
+188,hp victus 16,77253.23,20,Free Cooling Pad,8GB,Intel i5 11th Gen,512,512,NVIDIA MX450,5,windows 11,15.6,tn,1920x1080 (fhd),60463.88,60161.72,2 years,1,57440.68
+189,asus zenbook 14,45991.11,20,Free Cooling Pad,4GB,AMD Ryzen 7,256,512,Apple Integrated,4,windows 11,13.3,oled,2256x1504 (qhd),35263.66,37089.54,2 years,3,33500.48
+190,lenovo legion 5,143617.41,5,Cashback ₹1500,4GB,Intel i9 12th Gen,128,0,Intel UHD Graphics,7,windows 11,16.1,ips,3024x1964 (retina),132313.5,134699.41,1 year,2,125697.83
+191,dell g5 15,150848.6,20,Gaming Mouse,8GB,Intel i3 10th Gen,128,512,Intel Iris Xe,7,windows 10,14.0,amoled,1366x768 (hd),130718.8,128420.76,2 years,4,124182.86
+192,asus zenbook 14,132502.49,20,Free Antivirus,4GB,Intel i9 12th Gen,512,0,Apple Integrated,10,macos,15.6,ips,3024x1964 (retina),100390.47,102010.28,3 years,2,95370.95
+193,alienware area 51m,62773.53,5,Cashback ₹1500,32GB,Intel i9 12th Gen,1024,1000,Intel UHD Graphics,8,windows 11,14.0,oled,1920x1080 (fhd),62828.75,59635.8,3 years,2,59687.31
+194,asus zenbook 14,98634.13,5,Free Game Bundle,32GB,AMD Ryzen 9,256,1000,NVIDIA GTX 1650,7,windows 10,15.6,ips,2560x1440 (qhd),90330.81,95821.58,3 years,1,85814.27
+195,razer blade stealth,84885.89,15,Free USB-C Adapter,8GB,Apple M2,256,0,AMD Radeon Graphics,3,macos,16.1,ips,3024x1964 (retina),71974.43,73157.17,2 years,2,68375.71
+196,alienware x14,120900.55,25,Free Headphones,32GB,AMD Ryzen 7,1024,0,Intel UHD Graphics,18,macos,15.6,ips,3840x2160 (4k),87748.8,87124.35,1 year,4,83361.36
+197,acer swift 3,129273.19,10,Cashback ₹1500,8GB,Apple M2,256,1000,NVIDIA RTX 3060,13,windows 11,16.1,oled,3024x1964 (retina),110095.15,108385.2,2 years,1,104590.4
+198,lg ultragear 17,101264.05,5,Extended Warranty,32GB,Apple M2,1024,0,NVIDIA GTX 1650,10,windows 10,17.0,oled,2560x1440 (qhd),96121.59,89905.72,1 year,1,91315.51
+199,dell g5 15,75130.08,10,Free Headphones,16GB,Apple M2,1024,1000,NVIDIA RTX 3080 Ti,17,windows 10,17.0,oled,2256x1504 (qhd),70176.23,65233.82,1 year,2,66667.41
+200,lenovo thinkpad x1,149062.89,15,Free Stylus,8GB,Intel i3 10th Gen,128,512,Intel Iris Xe,8,macos,15.6,amoled,3024x1964 (retina),125704.02,123139.55,3 years,3,119418.82
