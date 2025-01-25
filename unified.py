@@ -10,7 +10,7 @@ import re
 import streamlit as st
 import cohere
 
-COHERE_API_KEY = "wnDl2gFhkWSgehGd193dsPfVMKIJlDaSooLiXJrp"
+COHERE_API_KEY = "Your api key"
 co = cohere.Client(COHERE_API_KEY)
 sentiment_analyzer = pipeline("sentiment-analysis", model="cardiffnlp/twitter-roberta-base-sentiment")
 
@@ -180,7 +180,7 @@ def main():
     st.title("Integrated Customer & Recommendation System")
 
     credentials_path = "credentials.json"
-    spreadsheet_id = "1UPPDEfSS8QMuFzPYPuVvTs2Ai3ffu1W49n-1ROqvPhA"
+    spreadsheet_id = "your spreadsheet id"
     sheets_client = initialize_google_sheets(credentials_path)
     sheet = sheets_client.open_by_key(spreadsheet_id).sheet1
 
