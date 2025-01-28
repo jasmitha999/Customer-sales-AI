@@ -33,8 +33,8 @@ The Real-Time AI-Powered Sales Intelligence Tool is a cutting-edge solution desi
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/real-time-ai-sales-intelligence.git
-   cd real-time-ai-sales-intelligence
+   git clone https://github.com/jasmitha999/Customer-sales-AI.git
+   cd Customer-sales-AI
    ```
 2. **Install Dependencies**:
    ```bash
