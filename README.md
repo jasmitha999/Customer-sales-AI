@@ -92,7 +92,7 @@ The Real-Time AI-Powered Sales Intelligence Tool is a cutting-edge solution desi
 1. Fork the repository.
 2. Clone your fork:
    ```bash
-   git clone https://github.com/your-username/real-time-ai-sales-intelligence.git
+   git clone https://github.com/jasmitha999/Customer-sales-AI.git
    ```
 3. Create a branch for your feature:
    ```bash
