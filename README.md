@@ -1,4 +1,4 @@
-      Real-Time AI Sales Intelligence and Sentiment – Driven Deal Negotiation Assistant
+## Real-Time AI Sales Intelligence and Sentiment-Driven Deal Negotiation Assistant
 
 ## Overview
 
