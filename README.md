@@ -1,110 +1,112 @@
-Customer Sales AI
-
+Real-Time AI Sales Intelligence and Sentiment-Driven Deal Negotiation Assistant
 Overview
+The Real-Time AI-Powered Sales Intelligence Tool is a cutting-edge solution designed to revolutionize live sales interactions. It provides actionable insights, real-time negotiation strategies, and seamless data management, ensuring improved customer engagement and optimized sales outcomes.
 
-Customer Sales AI is a powerful tool designed to assist sales professionals by leveraging artificial intelligence for sentiment analysis, tone detection, and generating AI-driven suggestions for effective communication. This application uses natural language processing (NLP) and speech recognition to analyze customer inputs and provide actionable insights.
-
-Features
-
-- **Sentiment Analysis**: Detect customer sentiment using pre-trained NLP models.
-- **Tone Analysis**: Classify customer tone into categories like interested, hesitant, excited, etc.
-- **AI-Generated Suggestions**: Receive tailored suggestions based on sentiment and tone.
-- **Speech-to-Text Integration**: Enable voice input for seamless conversation analysis.
-- **Text-to-Speech Output**: Get AI responses spoken aloud.
-- **Excel Data Logging**: Automatically save customer interactions and AI insights into an Excel sheet.
-
+Key Features
+Real-Time Speech Recognition: Captures live audio input from sales calls.
+Automated Transcription: Converts audio into text for further analysis.
+Sentiment and Intent Analysis: Leverages advanced NLP models to assess customer emotions and intent.
+Dynamic Negotiation Terms: Generates optimized terms based on buyer context.
+Deal Recommendations: Matches buyer needs with relevant products.
+Conversation Summarization: Summarizes calls and determines deal status.
+Google Sheets Integration: Logs buyer interactions for analysis and reporting.
 Tech Stack
-
-- **Frontend**: Streamlit
-- **Backend**: Python
-- **APIs**: Custom AI modules
-- **Libraries**: Transformers, SpeechRecognition, Pyttsx3, Pandas
-
+Frontend: Streamlit
+Backend: Python
+APIs: Google Speech-to-Text, Google Sheets API
+Libraries: Hugging Face Transformers, SpeechRecognition, Pandas
 Installation
-
 Prerequisites
-
-- Python 3.10+
-- pip
-
+Python 3.10+
+pip
 Steps
+Clone the Repository:
+bash
+Copy
+Edit
+git clone https://github.com/your-username/real-time-ai-sales-intelligence.git
+cd real-time-ai-sales-intelligence
+Install Dependencies:
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Set Up Environment Variables: Create a .env file in the project root:
+makefile
+Copy
+Edit
+GOOGLE_CREDENTIALS_PATH=path_to_credentials.json
+SHEET_ID=your_google_sheet_id
+Run the Application:
+bash
+Copy
+Edit
+python main.py
+Workflow
+Speech Recognition:
+Captures real-time audio input during sales calls.
 
-1. Clone the repository:
+Audio Transcription:
+Utilizes Google Speech-to-Text API to convert audio into text.
 
-   ```bash
-   git clone <repository_url>
-   cd infosys_project
-   ```
+Sentiment and Intent Analysis:
+Models:
 
-2. Install dependencies:
+Sentiment Analysis: cardiffnlp/twitter-roberta-base-sentiment
+Intent Analysis: facebook/bart-large-mnli
+Objective: Understand customer sentiment and intent to provide actionable insights.
+Deal Recommendations:
+Matches buyer inputs with relevant product suggestions from a predefined dataset.
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+Negotiation Terms:
+Generates customized negotiation strategies based on sentiment and intent analysis.
 
-3. Set up the environment variables in a `.env` file:
+Conversation Summarization:
+Summarizes the interaction and provides deal status insights.
+Model: llama 3.3 70b versatile model
 
-   ```env
-   API_KEY=your_api_key_here
-   EXCEL_FILE=sales_data.xlsx
-   ```
-
-4. Initialize the Excel file:
-
-   ```bash
-   python -c "import excel_handler; excel_handler.initialize_excel()"
-   ```
-
-5. Run the Streamlit application:
-
-   ```bash
-   streamlit run app.py
-   ```
-
-Usage
-
-1. Launch the application via Streamlit.
-2. Enable Speech Output if desired.
-3. Click on Start Sales Conversation.
-4. Speak or type your customer inputs.
-5. View AI insights, sentiment, tone, and suggestions.
-6. Conversations are logged into `sales_data.xlsx`.
+Google Sheets Logging:
+Logs interactions, insights, and deal summaries into a shared Google Sheet for tracking.
 
 File Structure
-
-- **`app.py`**: Main application entry point for running the Streamlit application.
-- **`ai_response.py`**: Handles sentiment and tone analysis using pre-trained models.
-- **`api.py`**: Configures API interactions and manages requests to external AI services.
-- **`speech_to_text.py`**: Manages voice input processing and converts speech to text.
-- **`text_to_speech.py`**: Converts AI-generated text responses into speech output.
-- **`excel_handler.py`**: Handles data logging and storage in the Excel file.
-- **`unified.py`**: Integrates various modules to ensure cohesive functionality.
-- **`requirements.txt`**: Lists all dependencies and libraries required for the project.
-- **`.env`**: Contains environment variables for secure API key and file path configurations.
-
-Environment Variables
-
-- **`API_KEY`**: API key for accessing AI services.
-- **`EXCEL_FILE`**: Path to the Excel file for logging.
-
+app.py: Main application file for Streamlit interface.
+ai_models.py: Handles sentiment and intent analysis.
+speech_processing.py: Converts speech input to text and vice versa.
+negotiation.py: Generates negotiation terms.
+data_logger.py: Logs data into Google Sheets.
+requirements.txt: Lists all required libraries and dependencies.
+.env: Stores environment variables securely.
 Contributing
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-branch
-   ```
-3. Make your changes and commit them.
-4. Push to your branch:
-   ```bash
-   git push origin feature-branch
-   ```
-5. Open a pull request.
-
+Steps to Contribute:
+Fork the repository.
+Clone your fork:
+bash
+Copy
+Edit
+git clone https://github.com/your-username/real-time-ai-sales-intelligence.git
+Create a branch for your feature:
+bash
+Copy
+Edit
+git checkout -b feature/your-feature-name
+Commit your changes:
+bash
+Copy
+Edit
+git commit -m "Add your feature description"
+Push your branch:
+bash
+Copy
+Edit
+git push origin feature/your-feature-name
+Submit a pull request.
+Guidelines
+Follow PEP 8 coding standards.
+Write clear comments and documentation.
+Add tests for new features.
 License
-
-This project is licensed under the GNU License.
+This project is licensed under the GNU License. By contributing, you agree that your work will be licensed under the same terms.
 
 Contact
-
-For any questions or support, please reach out via [mulejasmithareddy@gmail.com](mailto\:mulejasmithareddy@gmail.com).
+For any questions or feedback, feel free to reach out at:
+Email: mulejasmithareddy@gmail.com
