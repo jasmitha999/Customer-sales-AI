@@ -163,4 +163,4 @@ Google Sheets API
 
 ### Contirbutors:
 
-### Mule Jasmitha Reddy (Email:21204031@rmd.ac.in,Github repo:https://github.com/jasmitha999/Customer-sales-AI)
+### Mule Jasmitha Reddy (Email: mulejasmithareddy@gmail.com, Github repo:https://github.com/jasmitha999/Customer-sales-AI)
