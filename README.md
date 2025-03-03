@@ -161,6 +161,3 @@ Google Sheets API
 
 #### Previous Intercation summary spreadsheet URL: https://docs.google.com/spreadsheets/d/1BQRX513_GAiLKokObbJoA30foTKzLC_BFS48LD5MMTM/edit?gid=0#gid=0
 
-### Contirbutors:
-
-### Mule Jasmitha Reddy (Email: mulejasmithareddy@gmail.com, Github repo:https://github.com/jasmitha999/Customer-sales-AI)
