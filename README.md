@@ -1,4 +1,3 @@
-# InfosysSpringboard5.0-Group1
 # Real-Time AI-Powered Sales Intelligence Tool
 
 # Introduction
@@ -95,7 +94,7 @@ Fork the Repository: Create your own fork of the repository.
 
 Clone the Repository: Clone the forked repository to your local machine.
 
-git clone https://github.com/Joshithach18/InfosysSpringboard5.0-Group1.git
+git clone https://github.com/jasmitha999/Customer-sales-AI.git
 
 Create a Branch: Create a new branch for your changes.
 
@@ -134,7 +133,7 @@ By contributing, you agree that your contributions will be licensed under the sa
 
 Clone the repository:
 
-git clone https://github.com/Joshithach18/InfosysSpringboard5.0-Group1.git
+git clone https://github.com/jasmitha999/Customer-sales-AI.git
 
 cd InfosysSpringboard5.0-Group1
 
@@ -162,16 +161,6 @@ Google Sheets API
 
 #### Previous Intercation summary spreadsheet URL: https://docs.google.com/spreadsheets/d/1BQRX513_GAiLKokObbJoA30foTKzLC_BFS48LD5MMTM/edit?gid=0#gid=0
 
-#### Presentation file: https://docs.google.com/presentation/d/1uLfUlGXl_pjd5aujuCsOyt5ukJWSQjP-/edit?usp=sharing&ouid=115290809046251519926&rtpof=true&sd=true
-
-#### Demo Video: https://drive.google.com/file/d/1F5uPjfG2CPpY79v2WGxCtKF0jKx-1GP7/view?usp=sharing
-
-### This project is done in collaboration of the first group of three of us, as part of our Internship at Infosys Springboard 5.0
-
 ### Contirbutors:
 
 ### Mule Jasmitha Reddy (Email:21204031@rmd.ac.in,Github repo:https://github.com/jasmitha999/Customer-sales-AI)
-
-### Nitisha Choudary (Email:choudharynitisha00@gmail.com,Github repo:https://github.com/NitishaChoudhary/Internship-Infosys5.0B3)
-
-### Joshitha Chennamsetty (Email:joshithachennamsetty@gmail.com,Github repo:https://github.com/Joshithach18/Infosys-Springboard-5.0-internship)
