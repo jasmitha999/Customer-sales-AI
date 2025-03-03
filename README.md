@@ -1,126 +1,177 @@
-## Real-Time AI Sales Intelligence and Sentiment-Driven Deal Negotiation Assistant
+# InfosysSpringboard5.0-Group1
+# Real-Time AI-Powered Sales Intelligence Tool
 
-## Overview
+# Introduction
 
-The Real-Time AI-Powered Sales Intelligence Tool is a cutting-edge solution designed to revolutionize live sales interactions. It provides actionable insights, real-time negotiation strategies, and seamless data management, ensuring improved customer engagement and optimized sales outcomes.
+The Real-Time AI-Powered Sales Intelligence Tool is designed to revolutionize live sales calls by providing actionable insights and suggestions to sales teams in real-time. This cutting-edge tool leverages 
+advanced AI models for sentiment and intent analysis, integrates with CRM data and Google Sheets, and provides optimized negotiation strategies to enhance customer engagement and drive sales outcomes.
 
-## Key Features
+## Features
 
-- **Real-Time Speech Recognition**: Captures live audio input from sales calls.  
-- **Automated Transcription**: Converts audio into text for further analysis.  
-- **Sentiment and Intent Analysis**: Leverages advanced NLP models to assess customer emotions and intent.  
-- **Dynamic Negotiation Terms**: Generates optimized terms based on buyer context.  
-- **Deal Recommendations**: Matches buyer needs with relevant products.  
-- **Conversation Summarization**: Summarizes calls and determines deal status.  
-- **Google Sheets Integration**: Logs buyer interactions for analysis and reporting.
+Real-time Speech Recognition for continuous audio recording from the buyer. 
 
-## Tech Stack
+Automated Speech-to-Text Transcription to convert recorded audio into text.
 
-- **Frontend**: Streamlit  
-- **Backend**: Python  
-- **APIs**: Google Speech-to-Text, Google Sheets API  
-- **Libraries**: Hugging Face Transformers, SpeechRecognition, Pandas  
+Sentiment and Intent Analysis powered by state-of-the-art NLP models.
 
-## Installation
+Recommending Laptops based on the given input.
 
-### Prerequisites
+Intelligent Negotiation Terms Generation based on buyer sentiment and intent.
 
-- Python 3.10+  
-- pip  
+Seamless Google Sheets Integration to record and manage buyer interactions.
 
-### Steps
+Fully functional Workflow Integration to streamline processes end-to-end.
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/jasmitha999/Customer-sales-AI.git
-   cd Customer-sales-AI
-   ```
-2. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Set Up Environment Variables**:
-   Create a `.env` file in the project root:
-   ```
-   GOOGLE_CREDENTIALS_PATH=path_to_credentials.json
-   SHEET_ID=your_google_sheet_id
-   ```
-4. **Run the Application**:
-   python finalui.py
+## Project Workflow
 
-## Workflow
+The project workflow includes 8 major steps:
 
-1. **Speech Recognition**:  
-   Captures real-time audio input during sales calls.  
+# 1. Speech Recognition
 
-2. **Audio Transcription**:  
-   Utilizes Google Speech-to-Text API to convert audio into text.
+Tools Used: PyAudio, SpeechRecognition libraries.
 
-3. **Sentiment and Intent Analysis**:  
-   Models:
-   - **Sentiment Analysis**: `cardiffnlp/twitter-roberta-base-sentiment`  
-   - **Intent Analysis**: `facebook/bart-large-mnli`  
-   Objective: Understand customer sentiment and intent to provide actionable insights.  
+Functionality: Continuously records audio input from the buyer during live sales calls.
 
-4. **Deal Recommendations**:  
-   Matches buyer inputs with relevant product suggestions from a predefined dataset.  
+# 2. Transcription of Recorded Audio
 
-5. **Negotiation Terms**:  
-   Generates customized negotiation strategies based on sentiment and intent analysis.  
+API: Google Speech-to-Text API.
 
-6. **Conversation Summarization**:  
-   Summarizes the interaction and provides deal status insights.  
-   Model: `llama 3.3 70b versatile model`  
+Implementation:Enabled Google Drive and Google Sheets APIs.
 
-7. **Google Sheets Logging**:  
-   Logs interactions, insights, and deal summaries into a shared Google Sheet for tracking.
+Downloaded credentials.json file using a service account on Google Console.
 
-## File Structure
+Output: Converts audio into text for further processing.
 
-- **`app.py`**: Main application file for Streamlit interface.  
-- **`ai_models.py`**: Handles sentiment and intent analysis.  
-- **`speech_processing.py`**: Converts speech input to text and vice versa.  
-- **`negotiation.py`**: Generates negotiation terms.  
-- **`data_logger.py`**: Logs data into Google Sheets.  
-- **`requirements.txt`**: Lists all required libraries and dependencies.  
-- **`.env`**: Stores environment variables securely.  
+# 3. Sentiment and Intent Analysis
 
-## Contributing
+Models Used:Sentiment Analysis: cardiffnlp/twitter-roberta-base-sentiment from Hugging Face.
 
-### Steps to Contribute:
+Intent Analysis: facebook/bart-large-mnli from Hugging Face.
 
-1. Fork the repository.
-2. Clone your fork:
-   ```bash
-   git clone https://github.com/jasmitha999/Customer-sales-AI.git
-   ```
-3. Create a branch for your feature:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-4. Commit your changes:
-   ```bash
-   git commit -m "Add your feature description"
-   ```
-5. Push your branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-6. Submit a pull request.
+Objective: Understand the buyer's mood and intent to provide actionable insights.
 
-### Guidelines
+# 4. Deal Recommendations
 
-- Follow PEP 8 coding standards.
-- Write clear comments and documentation.
-- Add tests for new features.
+Models used: Command-xlarge-nightly model from Cohere LLM
+
+Approach: Suggest laptops based on the input given by the buyer and extract matched laptops names in the input to the product name in the dataset, recommends to the buyer.
+
+# 5. Negotiating Terms Generation
+
+Models used: Command-xlarge-nightly model from Cohere LLM
+
+Approach: Extracts keywords based on sentiment and intent analysis.
+
+Generates basic negotiation terms tailored to the buyer's context.
+
+# 6. Summarization of Conversation
+
+Aprroach: Summarizes the whole conversation and finalises the deal status based on the sentiment.
+
+Model used: llama 3.3 70b versatile model from GROQ LLM.
+
+# 7. Google Sheets Integration
+
+Purpose: Records all buyer interactions and contextual data for tracking and analysis.
+
+Implementation:Used the spreadsheet ID of a shared Google Sheet linked with the service account in the credentials file.
+
+# 8. Workflow Integration
+Objective: Seamlessly integrates all steps into a unified, functional workflow for real-time operation.
+
+## Contribution Guidelines
+
+We welcome contributions to enhance this project. Please follow the guidelines below:
+
+## Reporting Issues
+
+Check existing issues before creating a new one.
+
+Provide a clear and concise description of the problem. Include steps to reproduce the issue, if applicable.
+
+## Making Changes
+
+Fork the Repository: Create your own fork of the repository.
+
+Clone the Repository: Clone the forked repository to your local machine.
+
+git clone https://github.com/Joshithach18/InfosysSpringboard5.0-Group1.git
+
+Create a Branch: Create a new branch for your changes.
+
+git checkout -b feature/your-feature-name
+
+Commit Changes: Commit your changes with a descriptive message.
+
+git commit -m "Add description of your changes"
+
+Push Changes: Push your changes to your forked repository.
+
+git push origin feature/your-feature-name
+
+Create a Pull Request: Submit a pull request to the main repository.
+
+## Code Standards
+
+Follow PEP 8 for Python code.
+
+Include comments and documentation for clarity.
+
+Write unit tests where applicable.
+
+## Additional Contributions
+
+Enhance existing features.
+
+Optimize performance.
+
+Integrate additional NLP or AI models for improved accuracy.
 
 ## License
+By contributing, you agree that your contributions will be licensed under the same license as the project.
 
-This project is licensed under the GNU License. By contributing, you agree that your work will be licensed under the same terms.
+## Getting Started
 
-## Contact
+Clone the repository:
 
-For any questions or feedback, feel free to reach out at:  
-**Email**: mulejasmithareddy@gmail.com
+git clone https://github.com/Joshithach18/InfosysSpringboard5.0-Group1.git
 
+cd InfosysSpringboard5.0-Group1
 
+## Install required dependencies:
+
+pip install -r requirements.txt
+
+Run the project:
+
+Streamlit run frontend.py
+
+## Acknowledgments
+
+This project uses:
+
+Hugging Face Transformers
+
+Cohere LLM
+
+Groq LLM
+
+Google Speech-to-Text API
+
+Google Sheets API
+
+#### Previous Intercation summary spreadsheet URL: https://docs.google.com/spreadsheets/d/1BQRX513_GAiLKokObbJoA30foTKzLC_BFS48LD5MMTM/edit?gid=0#gid=0
+
+#### Presentation file: https://docs.google.com/presentation/d/1uLfUlGXl_pjd5aujuCsOyt5ukJWSQjP-/edit?usp=sharing&ouid=115290809046251519926&rtpof=true&sd=true
+
+#### Demo Video: https://drive.google.com/file/d/1F5uPjfG2CPpY79v2WGxCtKF0jKx-1GP7/view?usp=sharing
+
+### This project is done in collaboration of the first group of three of us, as part of our Internship at Infosys Springboard 5.0
+
+### Contirbutors:
+
+### Mule Jasmitha Reddy (Email:21204031@rmd.ac.in,Github repo:https://github.com/jasmitha999/Customer-sales-AI)
+
+### Nitisha Choudary (Email:choudharynitisha00@gmail.com,Github repo:https://github.com/NitishaChoudhary/Internship-Infosys5.0B3)
+
+### Joshitha Chennamsetty (Email:joshithachennamsetty@gmail.com,Github repo:https://github.com/Joshithach18/Infosys-Springboard-5.0-internship)
